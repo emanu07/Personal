@@ -1,0 +1,14 @@
+LAB2OTTOBRE - BLOCCO AMPLIFICATORE  realizzazione circuitale e a blocchi -- presente
+
+LAB9OTTOBRE: blocco amplificatore fatto con 2 blocchi in serie e relativo blocco equivalente -- presente
+
+LAB16OTTOBRE: SISTEMA A BLOCCHI CON SOMMATORE -- presente
+
+LAB23-30OTTOBRE: STUDIO DI BLOCCHI IN SERIE DISACCOPPIATI/ACCOPPIATI - differenze -- presente
+
+LAB13NOVEMBRE: SOVRAPPOSIZIONE DEGLI EFFETTI -- presente
+
+LAB27novembre : SDE applicato ad un sommatore non invertente con op. Amp -- presente
+
+LAB4DICEMBRE: altro sistema costituito da rete elettrica da verificare -- presente
+

@@ -1,0 +1,43 @@
+struct complex
+{
+    float real;
+    float imag;
+}
+
+struct complex a;
+struct complex b;
+
+struct complex sum_complex(struct complex a, struct complex b)
+{
+    struct complex ret;
+    ret.real = a.real + b.real;
+    ret.imag = a.imag + b.imag;
+    return ret;
+}
+
+struct complex mul_complex(struct complex a, struct complex b)
+{
+    struct complex ret;
+    // ...
+    return ret;
+}
+
+struct complex
+{
+    float real;
+    float imag;
+
+    struct complex sum(struct complex b);
+    struct complex mul(struct complex b);
+
+}
+
+struct complex::sum(struct complex b);
+{
+    struct complex ret;
+    ret.real = this->real + b.real;
+    ret.imag = this->imag + b.imag;
+    return ret;
+}
+
+a.sum(b)
